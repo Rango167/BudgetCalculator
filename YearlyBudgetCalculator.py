@@ -1,7 +1,7 @@
 import tkinter as tk
 
 
-def calculate_budget1():
+def calculate_budget():
     salary = float(salary_entry.get())
 
     monthly_food_budget = float(food_entry.get())
